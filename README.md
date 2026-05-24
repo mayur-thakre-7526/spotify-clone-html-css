@@ -1,4 +1,5 @@
 # Spotify Clone 🎵
+![Spotify Clone Preview](https://github.com/mayur-thakre-7526/spotify-clone-html-css/blob/main/spotify-clone-preview.png.png?raw=true)
 
 A Spotify-inspired web player UI built using only HTML and CSS.
 
